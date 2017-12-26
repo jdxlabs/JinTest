@@ -1,0 +1,14 @@
+{
+  "urls": [
+    "http://www.numerama.com/feed/",
+    "http://www.jeuxvideo.com/rss/rss-news.xml",
+    "http://www.jeuxvideo.com/rss/itunes-chroniques.xml",
+    "http://www.jeuxvideo.com/rss/rss-news.xml",
+    "http://www.jeuxvideo.com/rss/itunes-chroniques.xml",
+    "https://news.google.com/news?ned=fr&num=100&output=rss&q=(%22starwars%22",
+    "http://www.jeuxvideo.com/rss/rss-videos.xml",
+    "http://www.numerama.com/feed/",
+    "https://news.ycombinator.com/rss",
+    "https://toto.com/rss"
+  ]
+}
