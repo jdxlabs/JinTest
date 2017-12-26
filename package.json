@@ -1,0 +1,22 @@
+{
+  "name": "jin-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "feed.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1",
+    "mongoose": "^4.13.7",
+    "node-async-loop": "^1.2.2",
+    "request": "^2.83.0",
+    "rss-parser": "^2.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.3"
+  },
+  "scripts": {},
+  "author": "pierre",
+  "license": "ISC"
+}
