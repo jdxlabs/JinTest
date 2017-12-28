@@ -1,9 +1,9 @@
-var fs = require('fs');
-var parser = require('rss-parser');
-var asyncLoop = require('node-async-loop');
-var feedsService = require('./services/feeds.service');
-var contents = fs.readFileSync('./data/rssFeeds.json');
-var feeds = JSON.parse(contents);
+const fs = require('fs');
+const parser = require('rss-parser');
+const asyncLoop = require('node-async-loop');
+const feedsService = require('./services/feeds.service');
+const contents = fs.readFileSync('./data/rssFeeds.json');
+const feeds = JSON.parse(contents);
 
 // Parse RSS feeds URls
 console.log('Start Crawl Proccess');

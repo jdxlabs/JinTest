@@ -1,11 +1,11 @@
 'use strict';
-var mongoose = require('mongoose');
-var Schema = mongoose.Schema;
+const mongoose = require('mongoose');
+const Schema = mongoose.Schema;
 
 /**
  * @type {mongoose.Schema}
  */
-var Article = new Schema({
+const Article = new Schema({
     title: {
         type: String
     },
